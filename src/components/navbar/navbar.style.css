@@ -1,0 +1,21 @@
+nav {
+  display: grid;
+  justify-content: center;
+  justify-items: center;
+  margin: 2rem auto;
+  text-align: center;
+}
+
+.nav-title {
+  width: 90vw;
+  font-size: 2.5rem;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  background: lightyellow;
+  padding: 0.2rem;
+  border: 1px solid goldenrod;
+}
+
+img {
+  width: 15%;
+}

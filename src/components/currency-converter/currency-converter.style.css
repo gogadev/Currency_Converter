@@ -1,0 +1,19 @@
+.converter {
+    display: grid;
+    justify-content: center;
+    justify-items: center;
+    margin: 2rem auto;
+}
+
+input {
+    font-size: 1.6rem;
+    border: 1px solid  goldenrod;
+
+}
+
+select {
+    padding: 0.2rem 0.2rem;
+    border: 1px dotted goldenrod;
+    border-top: none;
+    font-size: 1.2rem;
+}
